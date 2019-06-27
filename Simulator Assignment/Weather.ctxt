@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Weather
+comment0.text=\r\n\ Weather\ class\ define\ a\ weather,\ each\ weather\ has\ a\ name.\r\n\ @author\ Bonian\ Hu\ and\ Yilei\ Liang\r\n\ @version\ 2018.2.18\r\n
+comment1.params=name
+comment1.target=Weather(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Weather\r\n
+comment2.params=
+comment2.target=java.lang.String\ getWeather()
+comment2.text=\r\n\ get\ the\ weather\ name\r\n\ return\ String\ the\ weather\ name.\r\n
+numComments=3

@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Grass
+comment0.text=\r\n\ A\ simple\ model\ of\ a\ grass.\r\n\ Grasses\ age,\ sow,\ and\ die.\r\n\ \r\n\ @author\ Bonian\ Hu\ and\ Yilei\ Liang\r\n\ @version\ 2018.\ 2.18\r\n
+comment1.params=randomAge\ field\ location
+comment1.target=Grass(boolean,\ Field,\ Location)
+comment1.text=\r\n\ Create\ a\ new\ grass.\ A\ grass\ may\ be\ created\ with\ age\r\n\ zero\ (a\ new\ born)\ or\ with\ a\ random\ age.\r\n\ \r\n\ @param\ randomAge\ If\ true,\ the\ grass\ will\ have\ a\ random\ age.\r\n\ @param\ field\ The\ field\ currently\ occupied.\r\n\ @param\ location\ The\ location\ within\ the\ field.\r\n
+comment2.params=newGrasses
+comment2.target=void\ act(java.util.List)
+comment2.text=\r\n\ This\ is\ what\ the\ grass\ does\ most\ of\ the\ time\ -\ it\ runs\ \r\n\ around.\ Sometimes\ it\ will\ sow\ or\ die\ of\ old\ age.\r\n\ @param\ newgGrasses\ A\ list\ to\ return\ newly\ born\ grasses.\r\n
+comment3.params=
+comment3.target=void\ incrementAge()
+comment3.text=\r\n\ Increase\ the\ age.\r\n\ This\ could\ result\ in\ the\ grass's\ death.\r\n
+comment4.params=newGrass
+comment4.target=void\ giveBirth(java.util.List)
+comment4.text=\r\n\ Check\ whether\ or\ not\ this\ grass\ is\ to\ give\ birth\ at\ this\ step.\r\n\ New\ births\ will\ be\ made\ into\ free\ adjacent\ locations.\r\n\ @param\ newGrasss\ A\ list\ to\ return\ newly\ born\ grasss.\r\n
+comment5.params=
+comment5.target=int\ sow()
+comment5.text=\r\n\ Generate\ a\ number\ representing\ the\ number\ of\ births,\r\n\ if\ it\ can\ sow.\r\n\ @return\ The\ number\ of\ births\ (may\ be\ zero).\r\n
+comment6.params=
+comment6.target=boolean\ canSow()
+comment6.text=\r\n\ A\ grass\ can\ sow\ if\ it\ has\ reached\ the\ sowing\ age.\r\n\ @return\ true\ if\ the\ grass\ can\ sow,\ false\ otherwise.\r\n
+comment7.params=
+comment7.target=void\ weatherEffect()
+comment7.text=\r\n\ Produce\ the\ weather\ effect\r\n
+numComments=8

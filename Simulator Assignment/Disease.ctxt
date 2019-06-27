@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Disease
+comment0.text=\n\ A\ object\ of\ disease.\ Each\ disease\ has\ a\ name,\ a\ probability\ to\ get\ infect.\ \n\ A\ life\ increasing\ rate.\ And\ a\ recovery\ rate.\n\ \n\ @author\ Bonian\ Hu\ and\ Yilei\ Liang\n\ @version\ 2018.\ 2.18\n
+comment1.params=name\ probabilityInf\ rate\ recovery
+comment1.target=Disease(java.lang.String,\ int,\ int,\ int)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Disease\n
+comment2.params=
+comment2.target=int\ getProbability()
+comment2.text=\n\ Return\ the\ infection\ probability\n\ @return\ int\ the\ probability\n
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment3.text=\n\ return\ the\ name\ of\ the\ disease\n\ @return\ the\ name\n
+comment4.params=
+comment4.target=int\ getRate()
+comment4.text=\n\ return\ the\ rate\ of\ the\ disease\n\ @return\ the\ rate\ of\ increase\ the\ age\n
+comment5.params=
+comment5.target=int\ getRecoveryProbability()
+comment5.text=\n\ Return\ the\ recover\ probability\n\ @return\ the\ probability\ that\ the\ disease\ is\ recovered.\n
+numComments=6

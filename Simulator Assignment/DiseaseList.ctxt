@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=DiseaseList
+comment0.text=\n\ \ A\ disease\ list\ generate\ a\ list\ of\ diseases.\n\n\ @author\ Bonian\ Hu\ and\ Yilei\ Liang\n\ @version\ 2018.\ 2.18\n
+comment1.params=
+comment1.target=DiseaseList()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ DiseaseList\n
+comment2.params=
+comment2.target=void\ initialTheList()
+comment2.text=\n\ Initialize\ the\ disease\ List.\ Each\ disease\ have\ differnt\ names,\ probability\ of\ getting\ infected\ by\ others,\n\ The\ infection\ from\ the\ disease\ (The\ life\ grows\ fasters)\ and\ the\ probability\ of\ getting\ recoveried\ at\ next\ step\n\ E.g.\ Cold\ \:\ When\ an\ animal\ met\ another\ animal\ with\ cold,\ the\ probability\ of\ getting\ infected\ is\ 5%\n\ And\ if\ the\ aniaml\ is\ getting\ cold,\ their\ life\ will\ grow\ 50%\ faster\ than\ usual.\n\ And\ in\ the\ next\ step,\ the\ probability\ of\ getting\ recoveried\ is\ 75%.\n
+comment3.params=
+comment3.target=Disease\ randomGenerateDisease()
+comment3.text=\n\ Random\ generate\ a\ disease\ from\ the\ list\n\ return\ a\ disease.\n
+numComments=4

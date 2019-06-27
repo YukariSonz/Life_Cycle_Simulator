@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=WeatherList
+comment0.text=\r\n\ The\ weather\ list\ class\ define\ a\ list\ of\ the\ weather.\r\n\r\n\ @author\ Bonian\ Hu\ and\ Yilei\ Liang\r\n\ @version\ 2018.\ 2.18\r\n
+comment1.params=
+comment1.target=WeatherList()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Weather_List\r\n
+comment2.params=
+comment2.target=Weather\ generateWeather()
+comment2.text=\r\n\ Retrive\ a\ random\ weather\ from\ the\ weather\ list.\r\n\ return\ a\ random\ weather.\r\n
+comment3.params=
+comment3.target=void\ initialiseList()
+comment3.text=\r\n\ Set\ up\ different\ weathers\ and\ add\ them\ in\ to\ the\ weatherList.\r\n
+numComments=4
