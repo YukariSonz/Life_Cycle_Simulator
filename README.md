@@ -1,6 +1,8 @@
 # Life_Cycle_Simulator
 This repository is for 3rd Assignmentat of 4CCS1PPA at King's College London
 
+## Duration: 2 weeks (Second semester at Undergraduate First Year)
+
 # How to start
     Create a Simulator object.
     Then call one of:
